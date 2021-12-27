@@ -10,7 +10,7 @@ public class ReClass {
     }
 
     static void takeAStep(){
-            System.out.println("you have the nesseray a step");
+            System.out.println("you have the nesseray a Steps");
             takeAStep();
     }
 }
