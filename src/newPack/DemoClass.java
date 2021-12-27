@@ -10,7 +10,7 @@ class Hi extends Thread{
 class Hello implements Runnable{
 
     public void run(){
-        System.out.println("Hello");
+        System.out.println("Hai guys");
     }
 }
 public class DemoClass {
