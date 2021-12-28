@@ -1,0 +1,23 @@
+Google sheet API client 
+
+Java and python and
+
+
+
+How to automate google sheet API
+
+
+
+
+
+1. Important informtaion when using Google sheet API.
+2. Create a Google Sheets API Service instance.
+3. Create a new Google sheets file.
+4. Write Data to google sheets
+5. Read data from Google sheets 
+6. Format text and numbers.
+7. Build pivot tables 
+8. Enforce cell validation 
+9. Set frozen rows. 
+10. Adjust column sizes.
+11. Create charts.
